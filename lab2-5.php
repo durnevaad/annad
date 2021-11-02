@@ -1,6 +1,6 @@
 <title>Дурнева А.Д.</title>
 <b>Задание №2-5</b><br><br>
-<img src="pic\func.PNG"><br>
+<img src="func.PNG"><br>
 <?php
 $a = rand (-5,7);
 $b = rand (-6,8);
@@ -21,4 +21,5 @@ $f2=(gav(pow($a,10) - pow($b,11),$b));
 echo "<br>Значение второй функции = $f2<br>";	
 $z = $f1 + $f2;
 echo "<br>Значение z = $z<br>";
-?> <p><a href="index.php">Главное меню</a></p>
+?><p><a href="navi.php">Вернуться назад</a></p>
+

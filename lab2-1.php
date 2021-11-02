@@ -32,4 +32,4 @@ $unic = array_unique($gen);
 echo "<pre>";
 print_r($unic);
 echo "</pre>";
-?> <p><a href="index.php">Главное меню</a></p>
+?> <p><a href="navi.php">Вернуться назад</a></p>

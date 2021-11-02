@@ -34,4 +34,5 @@ sort($cust1);
 foreach($cust1 as $key => $value){
 echo ($key .' = '. $value .'<br />');}
 
-?> <p><a href="index.php">Главное меню</a></p>
+?><p><a href="navi.php">Вернуться назад</a></p>
+

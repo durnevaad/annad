@@ -43,4 +43,5 @@ echo "<br> Массив из уникальных значений: ";
 $unic = array_unique($rev);
 for ($i=0;$i<=$n;$i++){ 
 echo $unic[$i].' ';} 
-?> <p><a href="index.php">Главное меню</a></p>
+?> <p><a href="navi.php">Вернуться назад</a></p>
+
